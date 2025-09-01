@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+h2{
+    color: green;
+}
+h3{
+    color: red;
+}
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    background-color: limegreen;
+}
+#main-section{
+    background-color: rgb(200, 129, 7);
+    color: rgb(49, 9, 182);
+    border: 5px solid black;
+    padding: 20px;
+    margin: 50px 0;
+}
+.list-item{
+    list-style-type: square;
+    color: purple;
+}
+nav{
+    text-align: center;
+}
